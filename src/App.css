@@ -1,0 +1,11 @@
+.calculator {
+  background: #000;
+  box-shadow: 0 3px 4px 3px rgb(0 0 0 / 12%), 0 3px 5px rgb(0 0 0 / 24%);
+  padding: 3px;
+}
+
+/* output class style is common for Output and Formula, therefore moved the style 1 level up */
+.output {
+  padding: 4px 10px 6px;
+  font-size: 20px;
+}
